@@ -5,5 +5,6 @@
     "**/.sf": true,
     "**/.sfdx": true
   },
-  "salesforcedx-vscode-apex.java.home": "/usr/lib/jvm/java-17-openjdk-amd64"
+  "salesforcedx-vscode-apex.java.home": "/usr/lib/jvm/java-17-openjdk-amd64",
+  "salesforce.agentforceVibesAutocomplete.enableAutocompletions": false
 }
